@@ -1,4 +1,4 @@
-## Say "Hello, World!" With C++
+## Input and Output
 ### Objective
 In this challenge, we practice reading input from stdin and printing output to stdout.
 - - - - 

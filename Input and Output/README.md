@@ -4,8 +4,8 @@ In this challenge, we practice reading input from stdin and printing output to s
 - - - - 
 In C++, you can read a single whitespace-separated token of input using cin, and print output to stdout using cout. For example, let's say we declare the following variables:
 
-      string s;
-      int n;
+string s;
+int n;
 
 and we want to use cin to read the input "High 5" from stdin. We can do this with the following code:
 

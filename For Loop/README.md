@@ -29,7 +29,8 @@ For each integer **_n_** in the inclusive interval **[_a_,_b_]**:
 - If **_1≤n≤9_**, then print the English representation of it in lowercase. That is "one" for **_1_**, "two" for **_2_**, and so on.
 - Else if **_n>9_** and it is an even number, then print "even".
 - Else if **_n>9_** and it is an odd number, then print "odd".
-  Note:**_[a,b]={x∈∑|a≤x≤b}={a,a+1,...,b}_**
+
+Note:**_[a,b]={x∈∑|a≤x≤b}={a,a+1,...,b}_**
 
 
 

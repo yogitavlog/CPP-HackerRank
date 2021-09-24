@@ -19,7 +19,4 @@ Print **Hello, World!** to stdout.
 
 **Sample Output**
 
-```c++
-cout<<"Hello, world!";
-
-```
+  Hello, World!
